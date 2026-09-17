@@ -1,7 +1,9 @@
 # Hi, I'm Vicent 👋
 
 🎓 Computer Engineering Graduate
+
 📊 Interested in **Data Science, Machine Learning & Artificial Intelligence**
+
 💻 Building projects with **Python, Data Analytics & AI**
 
 ---
