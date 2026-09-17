@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Engineering graduate specialized in Computing, currently pursuing a Master's degree in Computer Engineering.
+I'm a Computer Engineering graduate specialized in Computing.
 
 I'm particularly interested in **Data Science, Machine Learning and Artificial Intelligence**, and I enjoy building practical projects to learn and solve real-world problems.
 
