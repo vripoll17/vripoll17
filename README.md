@@ -43,9 +43,6 @@ A project focused on collecting, analyzing and visualizing football match data t
 🤖 **Discord Quiz Bot**
 An educational Discord bot integrating AI models to automatically generate quizzes.
 
-🧠 **AI-Assisted Coding — TFG**
-Research project comparing different AI-assisted coding approaches in software development.
-
 ---
 
 ### 🌍 Languages
