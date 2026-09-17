@@ -60,4 +60,4 @@ Research project comparing different AI-assisted coding approaches in software d
 
 ### 📫 Connect with me
 
-[LinkedIn]https://www.linkedin.com/in/vicent-ripoll-baradat/ · [Email]vicentripoll.vr7@gmail.com
+[LinkedIn](https://www.linkedin.com/in/vicent-ripoll-baradat/) · [Email](vicentripoll.vr7@gmail.com)
