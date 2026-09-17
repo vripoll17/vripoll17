@@ -50,11 +50,11 @@ Research project comparing different AI-assisted coding approaches in software d
 
 ### 🌍 Languages
 
-🇪🇸 Spanish · Native
-🟨 Catalan · Native
-🇬🇧 English · B2
-🇧🇷 Portuguese · Fluent
-🇫🇷 French · A2
+Spanish · Native
+Catalan · Native
+English · B2
+Portuguese · Fluent
+French · A2
 
 ---
 
