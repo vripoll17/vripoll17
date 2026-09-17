@@ -50,14 +50,14 @@ Research project comparing different AI-assisted coding approaches in software d
 
 ### 🌍 Languages
 
-Spanish · Native
-Catalan · Native
-English · B2
-Portuguese · Fluent
-French · A2
+* Spanish - Native
+* Catalan - Native
+* English - B2
+* Portuguese - Fluent
+* French - A2
 
 ---
 
 ### 📫 Connect with me
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn]https://www.linkedin.com/in/vicent-ripoll-baradat/ · [Email]vicentripoll.vr7@gmail.com
