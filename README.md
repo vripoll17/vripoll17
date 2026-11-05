@@ -1,6 +1,6 @@
 # Hi, I'm Vicent 👋
 
-🎓 Computer Engineering Graduate | MSc Data Science Student
+🎓 Computer Engineer | MSc Data Science Student
 
 📊 Interested in **Data Science, Machine Learning & Artificial Intelligence**
 
