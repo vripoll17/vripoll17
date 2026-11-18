@@ -42,9 +42,11 @@ I'm continuously learning and applying new technologies through academic and per
 
 A football analytics project that combines data processing, statistical analysis and visualization with AI integration to generate match reports and provide useful performance insights.
 
-🏠 **Boston Housing – Exploratory Data Analysis & Regression**
+🎓 **MSc Data Science – Projects Portfolio**
 
-An exploratory data analysis and statistical modeling project using the Boston Housing dataset, including correlation analysis, PCA and linear regression.
+A curated collection of end-to-end data science and machine learning projects developed during my Master's degree:
+- **Boston Housing Price Prediction:** Exploratory data analysis, correlation/PCA study, ANOVA, and linear regression modeling with diagnostic validation and outlier treatment (Cook's distance).
+- **Customer Churn Prediction:** Feature selection (Information Gain, PCA, and EDA) and logistic regression modeling focused on maximizing Recall and interpretability to identify at-risk users.
 
 ---
 
